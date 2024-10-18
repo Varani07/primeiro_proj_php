@@ -5,7 +5,7 @@ class Ingrediente {
     private $id_ingredientes;
     private $descricao;
     
-    public function __construct($param) {
+    public function __construct() {
         
     }
     public function __get($name) {
